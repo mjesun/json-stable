@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1"
+  }
+}
